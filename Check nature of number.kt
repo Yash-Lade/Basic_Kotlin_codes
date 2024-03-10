@@ -1,5 +1,6 @@
 fun main()
 {
+    print("-- A simple kotlin program by Yash Lade -- \n")
     print("Enter a number :")
     val input= readlnOrNull()
     val no=input?.toInt()
